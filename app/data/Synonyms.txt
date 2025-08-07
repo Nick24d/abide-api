@@ -1,0 +1,73 @@
+{
+  "salvation": [
+    "born again", "saved", "redemption", "conversion", "deliverance", "eternal life"
+  ],
+  "faith": [
+    "belief", "trust", "confidence", "dependence on God", "hope", "assurance"
+  ],
+  "prayer": [
+    "talking to God", "petition", "supplication", "intercession", "communication with God"
+  ],
+  "holy spirit": [
+    "holy ghost", "spirit of God", "comforter", "helper", "advocate"
+  ],
+  "end times": [
+    "last days", "second coming", "rapture", "judgment day", "apocalypse"
+  ],
+  "love": [
+    "affection", "compassion", "kindness", "charity", "care", "forgiveness"
+  ],
+  "forgiveness": [
+    "pardon", "mercy", "release", "absolution", "grace"
+  ],
+  "grace": [
+    "favor", "gift of God", "blessing", "unmerited favor", "mercy"
+  ],
+  "hope": [
+    "expectation", "confidence", "trust", "anticipation", "assurance"
+  ],
+  "christian living": [
+    "discipleship", "obedience", "righteousness", "holy life", "daily walk"
+  ],
+  "healing": [
+    "restoration", "health", "cure", "recovery", "deliverance"
+  ],
+  "marriage": [
+    "union", "covenant", "relationship", "wedding", "holy matrimony"
+  ],
+  "sin": [
+    "wrongdoing", "disobedience", "iniquity", "transgression", "wickedness",
+    "lust", "sexual immorality", "porn", "pornography", "adultery", "fornication",
+    "addiction", "drunkenness"
+  ],
+  "temptation": [
+    "enticement", "seduction", "trial", "test"
+  ],
+  "heaven": [
+    "paradise", "kingdom of God", "eternal home", "afterlife"
+  ],
+  "hell": [
+    "hades", "lake of fire", "eternal punishment", "gehenna"
+  ],
+  "everlasting fire": [
+    "hell", "eternal punishment", "gehenna"
+  ],
+  "bible": [
+    "scripture", "holy book", "word of God", "gospel"
+  ],
+  "worship": [
+    "praise", "adoration", "devotion", "glorification"
+  ],
+  "tithing": [
+    "giving", "offering", "donation", "contribution", "charity"
+  ],
+  "discipleship": [
+    "following Christ", "obedience", "commitment", "faithfulness"
+  ],
+  "fear": [
+    "anxiety", "worry", "panic", "stress"
+  ],
+  "peace": [
+    "calm", "tranquility", "contentment", "rest"
+  ]
+}

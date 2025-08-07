@@ -1,0 +1,168 @@
+{
+    "Feelings": {
+        "Happy": {
+            "Joyful": [
+                "Psalms 32:11",
+                "1 Thessalonians 5:16-18"
+            ],
+            "Hopeful": [
+                "Jeremiah 29:11",
+                "Psalms 62:5-6"
+            ],
+            "Creative": [
+                "Exodus 35:30-35",
+                "Psalms 139:14"
+            ],
+            "Inspired": [
+                "2 Corinthians 4:18",
+                "Hebrews 10:24-25"
+            ],
+            "Excited": [
+                "Psalms 150:1-6",
+                "Jeremiah 20:13"
+            ]
+        },
+        "Sad": {
+            "Tired": [
+                "Matthew 11:28-30",
+                "Isaiah 40:31"
+            ],
+            "Ashamed": [
+                "Psalms 31:1",
+                "Matthew 5:14-16"
+            ],
+            "Bored": [
+                "Ephesians 5:15-17",
+                "Colossians 3:23-24"
+            ],
+            "Depressed": [
+                "James 1:2-4",
+                "Psalms 34:17-18"
+            ],
+            "Lonely": [
+                "Psalms 25:16-17",
+                "Isaiah 41:10"
+            ]
+        },
+        "Angry": {
+            "Jealous": [
+                "Exodus 20:17",
+                "1 Corinthians 13:4-5"
+            ],
+            "Bitter": [
+                "Ephesians 4:31",
+                "Hebrews 12:14-15"
+            ],
+            "Annoyed": [
+                "Proverbs 15:1",
+                "Proverbs 19:11"
+            ],
+            "Frustrated": [
+                "John 16:33",
+                "Galatians 6:9"
+            ],
+            "Critical": [
+                "Ephesians 4:29",
+                "Colossians 3:12-14"
+            ]
+        },
+        "Calm": {
+            "Peaceful": [
+                "Matthew 5:9",
+                "John 16:33"
+            ],
+            "Loving": [
+                "1 Corinthians 13:4-7"
+            ],
+            "Trusting": [
+                "Jeremiah 17:7",
+                "Proverbs 3:5"
+            ],
+            "Grateful": [
+                "1 Thessalonians 5:18",
+                "James 1:17"
+            ],
+            "Thoughtful": [
+                "Romans 12:2",
+                "Philippians 4:8"
+            ]
+        },
+        "Afraid": {
+            "Anxious": [
+                "Philippians 4:6-7",
+                "1 Peter 5:7"
+            ],
+            "Insecure": [
+                "Philippians 4:13",
+                "Romans 8:31-33"
+            ],
+            "Helpless": [
+                "Psalms 116:6",
+                "Isaiah 12:2"
+            ],
+            "Rejected": [
+                "Psalms 27:10",
+                "John 15:18"
+            ],
+            "Confused": [
+                "1 Corinthians 14:33",
+                "James 4:7"
+            ]
+        },
+        "Strong": {
+            "Proud": [
+                "2 Timothy 4:7",
+                "Matthew 25:21"
+            ],
+            "Respected": [
+                "Titus 2:7",
+                "Luke 6:31"
+            ],
+            "Worthy": [
+                "Matthew 6:26",
+                "Ephesians 2:10"
+            ],
+            "Fearless": [
+                "2 Timothy 1:7",
+                "Deuteronomy 31:6"
+            ],
+            "Important": [
+                "John 3:16",
+                "Isaiah 43:4"
+            ]
+        }
+    },
+    "LustClassification": {
+        "PhysicalAttraction": [
+            "1 Thessalonians 4:5",
+            "Matthew 5:28",
+            "Romans 1:27",
+            "Ephesians 2:3",
+            "Romans 1:24"
+        ],
+        "LoveOfPossessions": [
+            "1 Timothy 6:9",
+            "James 4:2",
+            "1 Peter 1:14"
+        ],
+        "Pride": [
+            "1 Corinthians 10:6",
+            "2 Timothy 2:22",
+            "2 Timothy 4:3",
+            "James 1:14-15",
+            "2 Timothy 3:6",
+            "Galatians 5:16",
+            "Ephesians 4:22",
+            "Titus 3:3"
+        ],
+        "CombinedAreas": [
+            "Romans 13:14",
+            "Mark 4:19",
+            "Romans 6:12",
+            "Romans 7:7",
+            "Galatians 5:24",
+            "1 Peter 2:11",
+            "Titus 2:12"
+        ]
+    }
+}
