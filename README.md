@@ -1,10 +1,21 @@
-# ABIDE API
+# 📖 ABIDE Bible Study API
 
-An AI-powered, scripture-first Bible study API and devotional service — free for our Telegram bot and website, paid via RapidAPI for external devs.
+A FastAPI-powered spiritual API for studying Bible verses, exploring topics, emotions, and daily devotionals.
 
-## 🔗 Public Endpoints (Free)
-- **GET** `/devotional`  
-  Daily devotional for today’s date.
-- **POST** `/study`  
-  ```json
-  { "reference": "John 3:16
+## 🔧 Features
+
+- `/study` – Get Bible verse(s) with related verses.
+- `/ask` – Ask questions by emotion or topic (e.g. "I feel afraid", "How to build faith").
+- `/topics` – View all supported spiritual topics.
+- `/devotional` – Get today’s devotional from `devotional.json`.
+
+## 🗂️ Structure
+
+- `app/` – Main API code
+- `bot.py` – Telegram bot script
+- `data/` – JSON files for Bible, topics, emotions, devotionals
+
+## ▶️ Run Locally
+
+```bash
+uvicorn app.main:app --reload
